@@ -12,10 +12,8 @@ So far there are 6 segments
 - Prime Numbers
 - Sorting Algorithms
 - N Queen
-- Convex Hull
 - Binary Search Game
 - Recursion Tree
-- Turing Machine
 
 I have implemented a total of `24 algorithms` so far. And will try to add more later.  
 
@@ -44,13 +42,4 @@ I have implemented a total of `24 algorithms` so far. And will try to add more l
   - Fast Exponentiation
   - Stirling Number of Second Kind
 
-
-
-### Note to self:
-
-To deploy recent changes to page
-
-```
-npm run build
-npm run deploy
 ```
